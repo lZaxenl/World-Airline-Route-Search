@@ -1,0 +1,592 @@
+From:  Moscow, Russia
+To  :  Shenzhen, People's Republic of China
+From:  Seoul, South Korea
+To  :  Taipei, Taiwan
+       Moscow, Russia
+       Monterrey, Mexico
+       Athens, Greece
+       Beirut, Lebanon
+       Riyadh, Saudi Arabia
+       Glasgow, United Kingdom
+From:  Tokyo, Japan
+To  :  Lagos, Nigeria
+       San Francisco, United States
+       Sydney, Australia
+       Riga, Latvia
+From:  Hong Kong, SAR
+To  :  New York City, United States
+       Manama, Bahrain
+       Amman, Jordan
+       Oslo, Norway
+       Taipei, Taiwan
+       Paris, France
+       Denver, United States
+       Miami, United States
+From:  London, United Kingdom
+To  :  St. Louis, United States
+       Monterrey, Mexico
+From:  Osaka, Japan
+To  :  Calgary, Canada
+       Hamburg, Germany
+From:  Geneva, Switzerland
+To  :  Casablanca, Morocco
+       Dublin, Ireland
+       St. Petersburg, Russia
+       New York City, United States
+From:  Copenhagen, Denmark
+To  :  Oslo, Norway
+From:  Zurich, Switzerland
+To  :  Jakarta, Indonesia
+       Tokyo, Japan
+       Rome, Italy
+       Ottawa, Canada
+       Hanoi, Vietnam
+       Athens, Greece
+       London, United Kingdom
+From:  Oslo, Norway
+To  :  Los Angeles, United States
+From:  New York City, United States
+To  :  Tallinn, Estonia
+From:  St. Petersburg, Russia
+To  :  Helsinki, Finland
+       Sydney, Australia
+       Seoul, South Korea
+       Singapore, Singapore
+       Amman, Jordan
+       Taipei, Taiwan
+       Frankfurt, Germany
+       Prague, Czech Republic
+From:  Milan, Italy
+To  :  Los Angeles, United States
+       Tallinn, Estonia
+       Berlin, Germany
+       Abidjan, Cote d'Ivoire
+       Tokyo, Japan
+       Mexico City, Mexico
+       Mumbai, India
+       Amsterdam, The Netherlands
+From:  Beijing, People's Republic of China
+To  :  Paris, France
+From:  Istanbul, Turkey
+To  :  Seattle, United States
+       Toronto, Canada
+       Sydney, Australia
+       Seoul, South Korea
+       Amman, Jordan
+       Dakar, Senegal
+From:  Paris, France
+To  :  Jakarta, Indonesia
+From:  Singapore, Singapore
+To  :  Lusaka, Zambia
+       Berlin, Germany
+       San Francisco, United States
+From:  Dublin, Ireland
+To  :  Helsinki, Finland
+       Honolulu, United States
+       Montreal, Canada
+       Boston, United States
+       Milan, Italy
+       Dusseldorf, Germany
+From:  Sydney, Australia
+To  :  London, United Kingdom
+From:  Shanghai, People's Republic of China
+To  :  Glasgow, United Kingdom
+       Geneva, Switzerland
+From:  Kiev, Ukraine
+To  :  Sydney, Australia
+       Dakar, Senegal
+From:  Vienna, Austria
+To  :  Sao Paulo, Brazil
+       New York City, United States
+       Los Angeles, United States
+From:  Tel Aviv, Israel
+To  :  Los Angeles, United States
+       Lagos, Nigeria
+       Miami, United States
+       Montreal, Canada
+       Toronto, Canada
+       Lyon, France
+       Zurich, Switzerland
+       Guatemala City, Guatemala
+       Athens, Greece
+From:  Helsinki, Finland
+To  :  Toronto, Canada
+       Morristown, United States
+       Osaka, Japan
+       Vienna, Austria
+From:  Dubai, United Arab Emirates
+To  :  Sydney, Australia
+       Boston, United States
+       Accra, Ghana
+       Vienna, Austria
+       Geneva, Switzerland
+From:  Douala, Cameroon
+To  :  New York City, United States
+       Abidjan, Cote d'Ivoire
+       Toronto, Canada
+From:  Taipei, Taiwan
+To  :  Riga, Latvia
+       Atlanta, United States
+       Calgary, Canada
+       Osaka, Japan
+       Mumbai, India
+       Jeddah, Saudi Arabia
+From:  Los Angeles, United States
+To  :  Tokyo, Japan
+       Accra, Ghana
+       Casablanca, Morocco
+From:  Abu Dhabi, United Arab Emirates
+To  :  Washington, United States
+       Hamburg, Germany
+       Abidjan, Cote d'Ivoire
+       Kiev, Ukraine
+       Shanghai, People's Republic of China
+       Helsinki, Finland
+       Taipei, Taiwan
+       Lusaka, Zambia
+       Ottawa, Canada
+From:  Lagos, Nigeria
+To  :  Vienna, Austria
+       Glasgow, United Kingdom
+       Berlin, Germany
+       Los Angeles, United States
+From:  Beirut, Lebanon
+To  :  Auckland, New Zealand
+       Chicago, United States
+       Douala, Cameroon
+       White Plains, United States
+       Jeddah, Saudi Arabia
+       Tokyo, Japan
+       Dubai, United Arab Emirates
+       Honolulu, United States
+From:  Sao Paulo, Brazil
+To  :  Amman, Jordan
+       White Plains, United States
+       Denver, United States
+       Taipei, Taiwan
+       Manama, Bahrain
+       Geneva, Switzerland
+       St. Louis, United States
+From:  San Francisco, United States
+To  :  Shanghai, People's Republic of China
+       Vancouver, Canada
+       Glasgow, United Kingdom
+From:  San Juan, Puerto Rico
+To  :  Ho Chi Minh City, Vietnam
+       Moscow, Russia
+       Manama, Bahrain
+       Riyadh, Saudi Arabia
+       New Delhi, India
+       St. Petersburg, Russia
+From:  Stockholm, Sweden
+To  :  Birmingham, United Kingdom
+       Prague, Czech Republic
+       Seoul, South Korea
+       Zurich, Switzerland
+       Abidjan, Cote d'Ivoire
+       London, United Kingdom
+       San Francisco, United States
+       Copenhagen, Denmark
+From:  Ho Chi Minh City, Vietnam
+To  :  Tel Aviv, Israel
+From:  Chicago, United States
+To  :  Frankfurt, Germany
+       Paris, France
+       Denver, United States
+       Lisbon, Portugal
+       Seattle, United States
+       St. Louis, United States
+       Casablanca, Morocco
+From:  Miami, United States
+To  :  Los Angeles, United States
+       Hong Kong, SAR
+From:  Rio de Janeiro, Brazil
+To  :  Casablanca, Morocco
+       Mumbai, India
+       Istanbul, Turkey
+       Lisbon, Portugal
+       Dakar, Senegal
+       Copenhagen, Denmark
+       Barcelona, Spain
+       Dusseldorf, Germany
+From:  Lusaka, Zambia
+To  :  Dublin, Ireland
+       Zurich, Switzerland
+       Casablanca, Morocco
+       Dubai, United Arab Emirates
+       Athens, Greece
+       Guatemala City, Guatemala
+       Warsaw, Poland
+       Honolulu, United States
+       Moscow, Russia
+From:  Amsterdam, The Netherlands
+To  :  Taipei, Taiwan
+       Amman, Jordan
+       Monterrey, Mexico
+       Rome, Italy
+       Lusaka, Zambia
+       Auckland, New Zealand
+       Shanghai, People's Republic of China
+       Dubai, United Arab Emirates
+       Kiev, Ukraine
+From:  White Plains, United States
+To  :  Los Angeles, United States
+       Monterrey, Mexico
+       Beirut, Lebanon
+       Denver, United States
+       Milan, Italy
+From:  Shenzhen, People's Republic of China
+To  :  Miami, United States
+From:  Abidjan, Cote d'Ivoire
+To  :  Melbourne, Australia
+       Seattle, United States
+From:  Toronto, Canada
+To  :  Geneva, Switzerland
+       Santiago, Chile
+       Milan, Italy
+       Munich, Germany
+       Zagreb, Croatia
+       Hamburg, Germany
+       Vienna, Austria
+       Montreal, Canada
+       Glasgow, United Kingdom
+From:  Jakarta, Indonesia
+To  :  Hanoi, Vietnam
+       Athens, Greece
+       Accra, Ghana
+       Zagreb, Croatia
+       Vancouver, Canada
+From:  Bratislava, Slovakia
+To  :  Moscow, Russia
+       Hamburg, Germany
+       Chicago, United States
+       Los Angeles, United States
+       Houston, United States
+       Accra, Ghana
+       Kiev, Ukraine
+       Casablanca, Morocco
+       Santiago, Chile
+From:  Prague, Czech Republic
+To  :  London, United Kingdom
+       Frankfurt, Germany
+       Amman, Jordan
+       Geneva, Switzerland
+       Amsterdam, The Netherlands
+       Birmingham, United Kingdom
+From:  Vancouver, Canada
+To  :  Glasgow, United Kingdom
+       Helsinki, Finland
+       Calgary, Canada
+       Taipei, Taiwan
+       Toronto, Canada
+       Amsterdam, The Netherlands
+       Casablanca, Morocco
+       Seattle, United States
+       Montreal, Canada
+       Ho Chi Minh City, Vietnam
+From:  Barcelona, Spain
+To  :  Bratislava, Slovakia
+       Cairo, Egypt
+       Dusseldorf, Germany
+       Budapest, Hungary
+       Seattle, United States
+       Washington, United States
+From:  Luxembourg, Luxembourg
+To  :  Berlin, Germany
+       Moscow, Russia
+       Singapore, Singapore
+From:  Athens, Greece
+To  :  Munich, Germany
+       Rome, Italy
+       St. Petersburg, Russia
+       Sydney, Australia
+       Douala, Cameroon
+       Luxembourg, Luxembourg
+From:  Glasgow, United Kingdom
+To  :  Shanghai, People's Republic of China
+       Oslo, Norway
+       Copenhagen, Denmark
+       Santiago, Chile
+       Ho Chi Minh City, Vietnam
+       Athens, Greece
+       Los Angeles, United States
+       Rome, Italy
+       Barcelona, Spain
+From:  Amman, Jordan
+To  :  Rome, Italy
+       Luxembourg, Luxembourg
+       Toronto, Canada
+       Morristown, United States
+       Tokyo, Japan
+       Oslo, Norway
+From:  Dusseldorf, Germany
+To  :  Atlanta, United States
+       Lusaka, Zambia
+       Abidjan, Cote d'Ivoire
+       St. Louis, United States
+       Amsterdam, The Netherlands
+       Morristown, United States
+From:  Warsaw, Poland
+To  :  Munich, Germany
+From:  Budapest, Hungary
+To  :  White Plains, United States
+       Dubai, United Arab Emirates
+       Zagreb, Croatia
+       Prague, Czech Republic
+       St. Petersburg, Russia
+       Osaka, Japan
+From:  Honolulu, United States
+To  :  Hanoi, Vietnam
+       Dusseldorf, Germany
+       White Plains, United States
+       Perth, Australia
+From:  Mumbai, India
+To  :  Auckland, New Zealand
+       Chicago, United States
+       Dusseldorf, Germany
+       St. Louis, United States
+       Toronto, Canada
+       Stockholm, Sweden
+       Atlanta, United States
+       Cairo, Egypt
+From:  Birmingham, United Kingdom
+To  :  Mumbai, India
+       Toronto, Canada
+       Atlanta, United States
+       Osaka, Japan
+       Douala, Cameroon
+       Denver, United States
+       Calgary, Canada
+       Hanoi, Vietnam
+From:  Brussels, Belgium
+To  :  New York City, United States
+       Dusseldorf, Germany
+       Beirut, Lebanon
+       Munich, Germany
+       Melbourne, Australia
+       White Plains, United States
+From:  Calgary, Canada
+To  :  Oslo, Norway
+       Montreal, Canada
+       Helsinki, Finland
+       Luxembourg, Luxembourg
+       London, United Kingdom
+       Bratislava, Slovakia
+From:  New Delhi, India
+To  :  Bratislava, Slovakia
+       Vancouver, Canada
+       St. Louis, United States
+       Lagos, Nigeria
+       Lusaka, Zambia
+       Boston, United States
+From:  Melbourne, Australia
+To  :  Cairo, Egypt
+       Budapest, Hungary
+       St. Louis, United States
+       Singapore, Singapore
+       Luxembourg, Luxembourg
+       Brussels, Belgium
+       Jakarta, Indonesia
+       St. Petersburg, Russia
+       Montreal, Canada
+       Geneva, Switzerland
+From:  Accra, Ghana
+To  :  Stockholm, Sweden
+       Riga, Latvia
+       Ottawa, Canada
+       Hong Kong, SAR
+From:  Houston, United States
+To  :  Budapest, Hungary
+       Los Angeles, United States
+       Rio de Janeiro, Brazil
+       Taipei, Taiwan
+       Hanoi, Vietnam
+       Perth, Australia
+       Beirut, Lebanon
+       Jeddah, Saudi Arabia
+       Miami, United States
+From:  Hamburg, Germany
+To  :  Brisbane, Australia
+       Melbourne, Australia
+       Dubai, United Arab Emirates
+       Zagreb, Croatia
+       Mumbai, India
+       Istanbul, Turkey
+       Stockholm, Sweden
+       Honolulu, United States
+       Lagos, Nigeria
+From:  Kuwait City, Kuwait
+To  :  Los Angeles, United States
+       Morristown, United States
+       Seoul, South Korea
+       London, United Kingdom
+       Santiago, Chile
+       Shenzhen, People's Republic of China
+       Rio de Janeiro, Brazil
+       Mumbai, India
+       Lagos, Nigeria
+From:  Zagreb, Croatia
+To  :  Bratislava, Slovakia
+       Tallinn, Estonia
+       Hamburg, Germany
+       Perth, Australia
+From:  Montreal, Canada
+To  :  London, United Kingdom
+       Boston, United States
+From:  Riga, Latvia
+To  :  St. Louis, United States
+       Shanghai, People's Republic of China
+       San Francisco, United States
+       Brisbane, Australia
+       Cairo, Egypt
+From:  Mexico City, Mexico
+To  :  New Delhi, India
+       Luxembourg, Luxembourg
+       Zagreb, Croatia
+       Osaka, Japan
+       Paris, France
+From:  Washington, United States
+To  :  Shenzhen, People's Republic of China
+       Lisbon, Portugal
+       Seattle, United States
+       Jakarta, Indonesia
+       Accra, Ghana
+       Amsterdam, The Netherlands
+       Cairo, Egypt
+       Sao Paulo, Brazil
+       Hamburg, Germany
+From:  Morristown, United States
+To  :  Birmingham, United Kingdom
+       Osaka, Japan
+       Kuwait City, Kuwait
+       Casablanca, Morocco
+       Oslo, Norway
+       Athens, Greece
+       San Francisco, United States
+From:  Boston, United States
+To  :  Hong Kong, SAR
+       Mumbai, India
+       Lagos, Nigeria
+       Hamburg, Germany
+       Singapore, Singapore
+       London, United Kingdom
+       Mexico City, Mexico
+From:  Atlanta, United States
+To  :  Oslo, Norway
+       Kuwait City, Kuwait
+       Riga, Latvia
+From:  Manama, Bahrain
+To  :  Houston, United States
+       Helsinki, Finland
+       Brussels, Belgium
+       Istanbul, Turkey
+       Beijing, People's Republic of China
+       St. Louis, United States
+       Santiago, Chile
+       Toronto, Canada
+       Vancouver, Canada
+From:  Casablanca, Morocco
+To  :  Frankfurt, Germany
+       San Juan, Puerto Rico
+       Budapest, Hungary
+       New York City, United States
+       Accra, Ghana
+From:  Lisbon, Portugal
+To  :  Miami, United States
+       Zagreb, Croatia
+       Toronto, Canada
+       Melbourne, Australia
+       Dakar, Senegal
+       Mumbai, India
+From:  Ottawa, Canada
+To  :  Helsinki, Finland
+       Jeddah, Saudi Arabia
+       Lisbon, Portugal
+       Seattle, United States
+       Hamburg, Germany
+       Morristown, United States
+       Melbourne, Australia
+       Auckland, New Zealand
+From:  Santiago, Chile
+To  :  Casablanca, Morocco
+       New York City, United States
+       White Plains, United States
+       Accra, Ghana
+From:  Lyon, France
+To  :  Douala, Cameroon
+       Vienna, Austria
+       New York City, United States
+       Casablanca, Morocco
+       Amman, Jordan
+       Houston, United States
+From:  Guatemala City, Guatemala
+To  :  Taipei, Taiwan
+       Amsterdam, The Netherlands
+       Washington, United States
+       Berlin, Germany
+       Singapore, Singapore
+       Dubai, United Arab Emirates
+       Ho Chi Minh City, Vietnam
+       Mumbai, India
+       Cairo, Egypt
+       Milan, Italy
+From:  Cairo, Egypt
+To  :  Lisbon, Portugal
+       Seattle, United States
+       Ottawa, Canada
+       Amman, Jordan
+       Riga, Latvia
+       Glasgow, United Kingdom
+       Luxembourg, Luxembourg
+       Rome, Italy
+       Miami, United States
+From:  Perth, Australia
+To  :  Birmingham, United Kingdom
+       Oslo, Norway
+       Vienna, Austria
+       Hanoi, Vietnam
+       Kuwait City, Kuwait
+From:  Tallinn, Estonia
+To  :  London, United Kingdom
+       Berlin, Germany
+       Dublin, Ireland
+       Toronto, Canada
+       Abidjan, Cote d'Ivoire
+       Ottawa, Canada
+       Birmingham, United Kingdom
+       Houston, United States
+       Tel Aviv, Israel
+From:  Denver, United States
+To  :  Munich, Germany
+       San Juan, Puerto Rico
+From:  Riyadh, Saudi Arabia
+To  :  Abidjan, Cote d'Ivoire
+From:  Brisbane, Australia
+To  :  St. Louis, United States
+       Tokyo, Japan
+       Oslo, Norway
+From:  Jeddah, Saudi Arabia
+To  :  Frankfurt, Germany
+       Lagos, Nigeria
+       Riyadh, Saudi Arabia
+       Kiev, Ukraine
+       Brisbane, Australia
+       Hong Kong, SAR
+From:  Auckland, New Zealand
+To  :  Ottawa, Canada
+       Stockholm, Sweden
+       Riga, Latvia
+       Dusseldorf, Germany
+From:  Seattle, United States
+To  :  Atlanta, United States
+       Douala, Cameroon
+From:  Monterrey, Mexico
+To  :  Los Angeles, United States
+       Hamburg, Germany
+       Abu Dhabi, United Arab Emirates
+       Denver, United States
+From:  St. Louis, United States
+To  :  Barcelona, Spain
+       Shanghai, People's Republic of China
+       Osaka, Japan
+       Guatemala City, Guatemala

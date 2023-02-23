@@ -1,0 +1,281 @@
+From:  Moscow, Russia
+To  :  Hong Kong, SAR
+       Beijing, People's Republic of China
+       Lagos, Nigeria
+       Dublin, Ireland
+From:  Seoul, South Korea
+To  :  Jakarta, Indonesia
+       Vienna, Austria
+       Ho Chi Minh City, Vietnam
+       San Francisco, United States
+       Beirut, Lebanon
+       Moscow, Russia
+       White Plains, United States
+       Beijing, People's Republic of China
+From:  Tokyo, Japan
+To  :  Shanghai, People's Republic of China
+       Hong Kong, SAR
+From:  Hong Kong, SAR
+To  :  Lusaka, Zambia
+       Oslo, Norway
+       Istanbul, Turkey
+       Los Angeles, United States
+       Beijing, People's Republic of China
+       Milan, Italy
+       Jakarta, Indonesia
+       Copenhagen, Denmark
+From:  London, United Kingdom
+To  :  Tel Aviv, Israel
+       St. Petersburg, Russia
+       Hanoi, Vietnam
+From:  Osaka, Japan
+To  :  Beijing, People's Republic of China
+       Dakar, Senegal
+       Taipei, Taiwan
+       Stockholm, Sweden
+       Shanghai, People's Republic of China
+       Paris, France
+From:  Geneva, Switzerland
+To  :  Moscow, Russia
+       Paris, France
+       Istanbul, Turkey
+       Beijing, People's Republic of China
+From:  Copenhagen, Denmark
+To  :  San Francisco, United States
+       Singapore, Singapore
+       Taipei, Taiwan
+       Dubai, United Arab Emirates
+       Douala, Cameroon
+       Amsterdam, The Netherlands
+From:  Oslo, Norway
+To  :  Osaka, Japan
+       Singapore, Singapore
+       Jakarta, Indonesia
+       Hong Kong, SAR
+       Tel Aviv, Israel
+       Sydney, Australia
+       Taipei, Taiwan
+       San Francisco, United States
+From:  St. Petersburg, Russia
+To  :  Beijing, People's Republic of China
+       Istanbul, Turkey
+       Taipei, Taiwan
+       Lusaka, Zambia
+       Seoul, South Korea
+       Toronto, Canada
+From:  Milan, Italy
+To  :  Vienna, Austria
+From:  Beijing, People's Republic of China
+To  :  Vienna, Austria
+       Ho Chi Minh City, Vietnam
+       New York City, United States
+       Seoul, South Korea
+       Kiev, Ukraine
+       Taipei, Taiwan
+       Abu Dhabi, United Arab Emirates
+       Toronto, Canada
+       Hong Kong, SAR
+From:  Paris, France
+To  :  Douala, Cameroon
+       Dublin, Ireland
+       Lusaka, Zambia
+       Lagos, Nigeria
+       Rio de Janeiro, Brazil
+       New York City, United States
+       Copenhagen, Denmark
+       Dubai, United Arab Emirates
+       St. Petersburg, Russia
+From:  Singapore, Singapore
+To  :  Miami, United States
+       Douala, Cameroon
+       Dublin, Ireland
+       Beirut, Lebanon
+       Taipei, Taiwan
+       Istanbul, Turkey
+       Chicago, United States
+       Moscow, Russia
+From:  Dublin, Ireland
+To  :  St. Petersburg, Russia
+       Ho Chi Minh City, Vietnam
+From:  Sydney, Australia
+To  :  Milan, Italy
+       Zurich, Switzerland
+       Moscow, Russia
+       Lusaka, Zambia
+       Geneva, Switzerland
+From:  Rome, Italy
+To  :  Geneva, Switzerland
+       Toronto, Canada
+From:  Kiev, Ukraine
+To  :  Helsinki, Finland
+       Chicago, United States
+       Rome, Italy
+       Paris, France
+       Jakarta, Indonesia
+       Los Angeles, United States
+       Rio de Janeiro, Brazil
+       New York City, United States
+From:  Vienna, Austria
+To  :  Lagos, Nigeria
+       Stockholm, Sweden
+       San Juan, Puerto Rico
+From:  Tel Aviv, Israel
+To  :  Beijing, People's Republic of China
+       Bratislava, Slovakia
+From:  Dubai, United Arab Emirates
+To  :  St. Petersburg, Russia
+From:  Taipei, Taiwan
+To  :  Helsinki, Finland
+       Oslo, Norway
+       San Juan, Puerto Rico
+       Singapore, Singapore
+       Paris, France
+       Miami, United States
+       Abu Dhabi, United Arab Emirates
+From:  Los Angeles, United States
+To  :  Stockholm, Sweden
+       Shanghai, People's Republic of China
+       Dakar, Senegal
+       Dubai, United Arab Emirates
+From:  Abu Dhabi, United Arab Emirates
+To  :  St. Petersburg, Russia
+       Helsinki, Finland
+       Sydney, Australia
+       Tokyo, Japan
+       San Francisco, United States
+       San Juan, Puerto Rico
+       Sao Paulo, Brazil
+       Rome, Italy
+From:  Lagos, Nigeria
+To  :  Abidjan, Cote d'Ivoire
+       Sao Paulo, Brazil
+       Rome, Italy
+From:  Beirut, Lebanon
+To  :  Hanoi, Vietnam
+       Copenhagen, Denmark
+       Jakarta, Indonesia
+       Dublin, Ireland
+       Zurich, Switzerland
+       Hong Kong, SAR
+       Toronto, Canada
+       Tel Aviv, Israel
+       Amsterdam, The Netherlands
+From:  Hanoi, Vietnam
+To  :  Dakar, Senegal
+       Los Angeles, United States
+       Abidjan, Cote d'Ivoire
+       White Plains, United States
+       London, United Kingdom
+From:  Sao Paulo, Brazil
+To  :  Osaka, Japan
+       Los Angeles, United States
+       Hong Kong, SAR
+       Copenhagen, Denmark
+       Milan, Italy
+       Miami, United States
+       Lusaka, Zambia
+From:  San Francisco, United States
+To  :  New York City, United States
+       Stockholm, Sweden
+       Singapore, Singapore
+       Beirut, Lebanon
+       Beijing, People's Republic of China
+       Istanbul, Turkey
+From:  San Juan, Puerto Rico
+To  :  Milan, Italy
+       Beirut, Lebanon
+       Rome, Italy
+       Sydney, Australia
+       Shenzhen, People's Republic of China
+       Taipei, Taiwan
+From:  Stockholm, Sweden
+To  :  Rio de Janeiro, Brazil
+       Geneva, Switzerland
+       Lusaka, Zambia
+       San Francisco, United States
+       New York City, United States
+       Douala, Cameroon
+       Miami, United States
+       Chicago, United States
+       Abu Dhabi, United Arab Emirates
+From:  Ho Chi Minh City, Vietnam
+To  :  Seoul, South Korea
+       Shanghai, People's Republic of China
+       Chicago, United States
+       San Francisco, United States
+       Abu Dhabi, United Arab Emirates
+       Helsinki, Finland
+       Moscow, Russia
+       New York City, United States
+       Geneva, Switzerland
+       Istanbul, Turkey
+From:  Chicago, United States
+To  :  Abidjan, Cote d'Ivoire
+       Douala, Cameroon
+       Geneva, Switzerland
+       Paris, France
+       Toronto, Canada
+From:  Miami, United States
+To  :  San Francisco, United States
+       Lusaka, Zambia
+       Shanghai, People's Republic of China
+       Abu Dhabi, United Arab Emirates
+       Beirut, Lebanon
+       Dubai, United Arab Emirates
+       Rome, Italy
+       Singapore, Singapore
+       Stockholm, Sweden
+From:  Rio de Janeiro, Brazil
+To  :  Osaka, Japan
+       Dubai, United Arab Emirates
+       Douala, Cameroon
+       Hong Kong, SAR
+       Abidjan, Cote d'Ivoire
+       Lusaka, Zambia
+       New York City, United States
+       Singapore, Singapore
+From:  Lusaka, Zambia
+To  :  San Juan, Puerto Rico
+       Vienna, Austria
+From:  Amsterdam, The Netherlands
+To  :  New York City, United States
+       Sydney, Australia
+       Hong Kong, SAR
+       Dublin, Ireland
+       San Francisco, United States
+From:  Shenzhen, People's Republic of China
+To  :  Sydney, Australia
+From:  Abidjan, Cote d'Ivoire
+To  :  Los Angeles, United States
+       Toronto, Canada
+       Tel Aviv, Israel
+       London, United Kingdom
+       Sydney, Australia
+       Miami, United States
+       Rio de Janeiro, Brazil
+       Paris, France
+From:  Dakar, Senegal
+To  :  Lusaka, Zambia
+       Jakarta, Indonesia
+       Amsterdam, The Netherlands
+From:  Toronto, Canada
+To  :  Miami, United States
+       Hong Kong, SAR
+       Milan, Italy
+       Geneva, Switzerland
+       Istanbul, Turkey
+       Jakarta, Indonesia
+       Abu Dhabi, United Arab Emirates
+       Lusaka, Zambia
+From:  Jakarta, Indonesia
+To  :  Toronto, Canada
+From:  Bratislava, Slovakia
+To  :  Douala, Cameroon
+       Beirut, Lebanon
+       Abidjan, Cote d'Ivoire
+       San Juan, Puerto Rico
+       Moscow, Russia
+       Stockholm, Sweden
+       Beijing, People's Republic of China
+       Jakarta, Indonesia
+       New York City, United States

@@ -1,0 +1,99 @@
+From:  Moscow, Russia
+To  :  Milan, Italy
+       Zurich, Switzerland
+       Shanghai, People's Republic of China
+       London, United Kingdom
+       Hong Kong, SAR
+       Sydney, Australia
+       Singapore, Singapore
+From:  Seoul, South Korea
+To  :  Hong Kong, SAR
+       New York City, United States
+       Moscow, Russia
+       Oslo, Norway
+From:  Tokyo, Japan
+To  :  Milan, Italy
+       Copenhagen, Denmark
+From:  Hong Kong, SAR
+To  :  Geneva, Switzerland
+       Oslo, Norway
+       Paris, France
+       Tokyo, Japan
+       Shanghai, People's Republic of China
+From:  London, United Kingdom
+To  :  Shanghai, People's Republic of China
+From:  Osaka, Japan
+To  :  Beijing, People's Republic of China
+       Copenhagen, Denmark
+       Dublin, Ireland
+       Sydney, Australia
+       St. Petersburg, Russia
+       New York City, United States
+       Paris, France
+From:  Geneva, Switzerland
+To  :  Shanghai, People's Republic of China
+From:  Copenhagen, Denmark
+To  :  Hong Kong, SAR
+       Shanghai, People's Republic of China
+       Istanbul, Turkey
+From:  Zurich, Switzerland
+To  :  Hong Kong, SAR
+       Geneva, Switzerland
+       St. Petersburg, Russia
+From:  Oslo, Norway
+To  :  Dublin, Ireland
+       Sydney, Australia
+       Osaka, Japan
+       Milan, Italy
+       Moscow, Russia
+       Tokyo, Japan
+       St. Petersburg, Russia
+From:  New York City, United States
+To  :  Singapore, Singapore
+       Shanghai, People's Republic of China
+       Copenhagen, Denmark
+       Istanbul, Turkey
+       Osaka, Japan
+From:  St. Petersburg, Russia
+To  :  Seoul, South Korea
+       Zurich, Switzerland
+       Tokyo, Japan
+       Moscow, Russia
+       Beijing, People's Republic of China
+       Osaka, Japan
+From:  Milan, Italy
+To  :  Copenhagen, Denmark
+       New York City, United States
+       Hong Kong, SAR
+       Istanbul, Turkey
+       Tokyo, Japan
+       Moscow, Russia
+       St. Petersburg, Russia
+       Osaka, Japan
+       London, United Kingdom
+From:  Beijing, People's Republic of China
+To  :  Sydney, Australia
+From:  Istanbul, Turkey
+To  :  Hong Kong, SAR
+       New York City, United States
+       Geneva, Switzerland
+       Shanghai, People's Republic of China
+       Oslo, Norway
+       Moscow, Russia
+From:  Paris, France
+To  :  Seoul, South Korea
+       London, United Kingdom
+From:  Singapore, Singapore
+To  :  Oslo, Norway
+From:  Dublin, Ireland
+To  :  Moscow, Russia
+       Hong Kong, SAR
+       St. Petersburg, Russia
+       Tokyo, Japan
+From:  Sydney, Australia
+To  :  Hong Kong, SAR
+From:  Shanghai, People's Republic of China
+To  :  Copenhagen, Denmark
+       Osaka, Japan
+       Zurich, Switzerland
+       Hong Kong, SAR
